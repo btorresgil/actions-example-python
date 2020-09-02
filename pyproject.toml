@@ -5,7 +5,7 @@ description = "An example of GitHub Actions with Python"
 authors = ["Brian Torres-Gil <brian@ixi.us>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6"
 pan-os-python = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
