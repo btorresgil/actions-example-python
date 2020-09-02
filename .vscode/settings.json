@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8CategorySeverity.E": "Warning",
+  "python.linting.mypyEnabled": true,
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true
+}
