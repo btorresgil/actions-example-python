@@ -7,6 +7,7 @@ authors = ["Brian Torres-Gil <brian@ixi.us>"]
 [tool.poetry.dependencies]
 python = "^3.6"
 pan-os-python = "^1.0.1"
+defusedxml = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
